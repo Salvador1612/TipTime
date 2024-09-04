@@ -1,0 +1,7 @@
+Diseño para una app básica de calculadora de propinas utilizando Kotlin en Android Studio, IU en funcionamiento para la app pero todavia no calcula.![Captura de pantalla (148)](https://github.com/user-attachments/assets/bb0f6227-719e-4284-b4da-49fd5379db34)
+![Captura de pantalla (149)](https://github.com/user-attachments/assets/47e17d33-c447-48a6-9797-54326f8e328a)
+![Captura de pantalla (154)](https://github.com/user-attachments/assets/b286ef5b-6c86-4548-a8e6-1015a4c2cef5)
+![Captura de pantalla (153)](https://github.com/user-attachments/assets/4edc3614-4456-4327-b546-452a035b4970)
+![Captura de pantalla (152)](https://github.com/user-attachments/assets/9579a8e5-3480-40ef-8808-22e7430fb88d)
+![Captura de pantalla (151)](https://github.com/user-attachments/assets/ee18b427-3900-423f-bce3-6fb07cc6c505)
+![Captura de pantalla (150)](https://github.com/user-attachments/assets/9730f231-eb56-4943-8af5-0cd064f08c74)
